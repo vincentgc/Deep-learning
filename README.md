@@ -7,6 +7,7 @@
 * Optimization-compare: 各种优化函数的作用和比较、学习率下降及正则化
 * Batch_Normalization: 批标准化
 * CNN -Netword: 各类基本卷积网络结构
+* Data_augmentation: 数据增强技巧
 ## Utils
 * Visualize: 与深度学习有关的可视化工具
 * File: 文件处理有关工具
