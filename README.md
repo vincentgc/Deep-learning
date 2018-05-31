@@ -5,6 +5,7 @@
 ## Basic:
 * Basic: Pytorch基础
 * Optimization-compare: 各种优化函数的作用和比较
+* Batch_Normalization: 批标准化
 ## Utils
 * Visualize: 与深度学习有关的可视化工具
 * File: 文件处理有关工具
