@@ -8,6 +8,7 @@
 * Batch_Normalization: 批标准化
 * CNN -Netword: 各类基本卷积网络结构
 * Data_augmentation: 数据增强技巧
+* GAN: 生成对抗网络
 ## Utils
 * Visualize: 与深度学习有关的可视化工具
 * File: 文件处理有关工具
