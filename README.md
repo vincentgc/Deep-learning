@@ -14,4 +14,4 @@
 * File: 文件处理有关工具
 * Deeplearning-Utils: 深度学习过程中会用到的工具或有用的函数
 ## Finished-work
-* DUAN: 第一篇论文代码
+* 完成工作，内容详见[README.md](https://github.com/vincentgc/Deep-learning/blob/master/Finished-work/README.md) 
