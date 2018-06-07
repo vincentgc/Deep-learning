@@ -11,7 +11,7 @@
 * GAN: 生成对抗网络
 ## Utils
 * Visualize: 与深度学习有关的可视化工具
-* File: 文件处理有关工具
+* OS: 系统文件处理有关工具
 * Deeplearning-Utils: 深度学习过程中会用到的工具或有用的函数
 ## Finished-work
 * 完成工作，内容详见[README.md](https://github.com/vincentgc/Deep-learning/blob/master/Finished-work/README.md) 
